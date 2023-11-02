@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dipak Gaikwad</h1>
 <p align="left"> <img src="https://th.bing.com/th/id/OIP.K4KT3PPN8b5YfHVki24f2gHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.3&pid=1.7" /> </p>
-- 🌱 I’m currently learning **Full Stack Data Science**
+- 🌱 A passionate Data Science Student
 
 - 💬 Ask me about **Python**
 
