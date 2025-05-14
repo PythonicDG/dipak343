@@ -15,7 +15,7 @@
 - 🌱 Currently diving deeper into: `FastAPI`, `LangChain`, `YOLOv8`, `AWS & GCP`  
 - 💬 Ask me about `Python`, `OpenCV`, `Django`, `TensorFlow`, `GitHub Actions`  
 - 📫 How to reach me: **dipakgaikwadmg@gmail.com**  
-- 📄 Know more about my experience: [Resume Link (Add your resume link here)](#)  
+- 📄 Know more about my experience: [Resume Link https://drive.google.com/file/d/15JPOBfMzX71deh7AsiSzeex8Fw8jYZji/view?usp=drive_link](#)  
 - ⚡ Fun fact: I like merging deep learning with web systems to solve real-world problems
 
 ---
